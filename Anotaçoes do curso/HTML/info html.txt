@@ -1,0 +1,44 @@
+uma tag é definhada por <> </>  hj vc pode criar sua própria tag 
+
+
+ "  <!--  -->  " "Corpo da tag de comentário"
+ 
+ id  todas as tag do html ué um identificador de CSS  
+  
+
+class do css começa com o ponto .container
+
+# representa o ID 
+
+<br> da um quebra de linha no texto 
+
+<hr />  quebra mais longa separando temas 
+
+><strong> grau de importância normalmente deixa mais escuro - semântico 
+
+<em> ênfase em alguma frase - semântico 
+
+control + shift + v  = preview que esta instalado no vscode
+
+<q> citação o <q> coloca aspas duplas - semântico  
+
+<s> tag de preço antigo ou algo do tipo, ele faz um risco na palavra - semântico 
+
+<ol> lista ordenadas, e dentro do ol   colocar o <li> listens itens - semântico  ---- lista com números 
+<ul> lista não  ordenadas, e dentro do ul   colocar o <li> listens itens - semântico  ---- lista com bolinhas do lado 
+
+<!-- URL absolute-->
+
+<a href="http://www.google.com.br">Google 1</a><br>   // aqui faz ir da sua pagina para o link
+<a href="http://www.google.com.br" target="_blank">Google 2</a>   // aqui faz carregar outra pagina
+
+css inline é dentro da tag
+
+<td colspan="3" rowspan="2">total</td>   //colspan faz preencher 3 colunas e o rowspan faz preencher 2 linhas 
+
+
+
+
+
+
+

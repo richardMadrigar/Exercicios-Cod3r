@@ -1,0 +1,22 @@
+° Para adicionar o css a pagina de HTML precisa o link relf
+
+<head>
+    <meta charset="UTF-8">      //UTF padrão br
+    <title>Portifolio</title>         //aqui é onde coloca o nome da pagina em cima da tela    
+  ° <link rel="stylesheet" href="poucoDeCSS.css">    // o  entre aspas " aqui vai o nome da pasta que esta o css "       
+</head>
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+° para acessar a "class" do Html no CSS começa com o ponto  " .  'e o nome da class'  {  backgroud-color: #444; }
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+# representa o ID 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ id  todas as tag do html ué um identificador de css
+  <link rel="stylesheet" href="http://files.cod3r.com.br/curso-web/tree.css">
+  --------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+colspan="3" rowspan="2">total   //colspan faz preencher 3 colunas e o rowspan faz preencher 2 linhas 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
